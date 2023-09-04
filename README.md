@@ -1,4 +1,4 @@
-# CSE420
+# Solar system 
 
 Solar system Graphics Model with assets
 
